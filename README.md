@@ -1,7 +1,7 @@
 # Monde-3D
 
 The course is an introduction to 3D rendering / image synthesis.
-The aim of this course is how to produce an image (=pixel array) from a digital representation of a
+The aim of this course is how to produce an image (=pixel array) from a digital representation
 of a 3D scene. 
 The main concepts studied here is:
 - Ray tracing
