@@ -8,7 +8,7 @@ J'ai eu du mal à afficher la bonne image avec le teletubbies car je ne crée pa
  L'image compte 1006 triangles.
  Le résultat de l'image est le suivant:
 
-![alt text](td2/mds3d_td2/data/tw.png)
+![alt text](data/tw.png)
 
 Pour avoir une normal par sommet j'ai modifié intersectFace pour y ajouter cette formule: 
 u * A.normal + v * B.normal + (1 - u - v) * C.normal
@@ -17,12 +17,12 @@ qui concretement permet d'avoir un teletubbies plus lisse.
 
 Voici l'image résultante:
 
-![alt text](td2/mds3d_td2/data/tw2.png)
+![alt text](data/tw2.png)
 
 La derniere image et le résultat d'une petite modification dans le fichier de scene tw.scn.
 L'image compte 12576 triangles beaucoup plus que les images précédentes. Le temps de calcul est bien sur plus long.
 
-![alt text](td2/mds3d_td2/data/tw3.png)
+![alt text](data/tw3.png)
 
 
 
@@ -54,4 +54,4 @@ Le code sur la partie BVH dans le fichier Mesh.cpp est volontairement mis en com
 J'obtiens une image après 24 minutes d'attente avec killeroo.scn.
 
 
-![alt text](td2/mds3d_td2/data/killeroobvh.png)
+![alt text](data/killeroobvh.png)

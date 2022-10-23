@@ -36,13 +36,13 @@ J'ai un problème au niveau de l'implémentation car je n'ai pas exactement la m
 
 Voici les images sur icosa.obj:
 
-![alt text](mds3d_td9/data/textures/icosa1.png)
+![alt text](data/textures/icosa1.png)
 
-![alt text](mds3d_td9/data/textures/icosa2.png)
+![alt text](data/textures/icosa2.png)
 
-![alt text](mds3d_td9/data/textures/icosa3.png)
+![alt text](data/textures/icosa3.png)
 
-![alt text](mds3d_td9/data/textures/icosa4.png)
+![alt text](data/textures/icosa4.png)
 
 
 ## Bords ouverts
@@ -54,10 +54,10 @@ Pour l'étape 3 j'ai trouvé ça plus difficile. J'ai appliqué une boucle do-wh
 
 Voici les images sur pipes.obj:
 
-![alt text](mds3d_td9/data/textures/pipe1.png)
+![alt text](data/textures/pipe1.png)
 
-![alt text](mds3d_td9/data/textures/pipe2.png)
+![alt text](data/textures/pipe2.png)
 
-![alt text](mds3d_td9/data/textures/pipe3.png)
+![alt text](data/textures/pipe3.png)
 
-![alt text](mds3d_td9/data/textures/pipe4.png)
+![alt text](data/textures/pipe4.png)
