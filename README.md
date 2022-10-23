@@ -16,3 +16,18 @@ The main concepts studied here is:
 All the different ideas/notions are in folders ex: td1,td2...
 I used OpenGl and the code is in c++. 
 
+# How to build 
+
+go inside folder mds3d_tdX
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make -j6
+
+./mds3dXXX
+
+the executable should be working
