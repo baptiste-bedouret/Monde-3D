@@ -21,7 +21,7 @@ J'ai juste un problème avec mon affichage du plan. La texture ne s'applique pas
 
 ## 3- Calcul du repère tangent
 
-La carte des normales est en effet exprimée dans le repère tangent. J'ai donc caculer la tangente et la bitangente dans la méthode Mesh::ComputeNormale. Je n'ai pas eu de soucie particulier pour ce calcul. J'ai initialisé la tangent et la bitangent dans le fichier mesh.h avec la normal.
+La carte des normales est en effet exprimée dans le repère tangent. J'ai donc calculer la tangente et la bitangente dans la méthode Mesh::ComputeNormale. Je n'ai pas eu de soucie particulier pour ce calcul. J'ai initialisé la tangent et la bitangent dans le fichier mesh.h avec la normal.
 
 ## 4-  Normal mapping sur une sphère
 
